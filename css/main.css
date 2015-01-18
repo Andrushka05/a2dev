@@ -332,7 +332,7 @@ a:focus {
 #pricing .plan li.plan-price {
   color: #666;
   padding: 15px 0;
-  font-size: 48px;
+  font-size: 36px;
 }
 #pricing .plan li.plan-action {
   margin-top: 20px;
@@ -356,7 +356,7 @@ a:focus {
   padding-bottom: 0;
 }
 #services .row > div {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 .center {
   text-align: center;
@@ -476,7 +476,8 @@ a:focus {
   margin-left: 20px;
   width: 200px;
   height: 65px;
-  background: url(../images/logo.png) no-repeat 0 50%;
+  background: url(../images/logo.png) no-repeat 50% 0%;
+  background-size: 126px auto;
 }
 .navbar-default .navbar-nav > li {
   margin-left: 1px;
